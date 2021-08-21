@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>tc-add-employee-with-login-details</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b6d68855-475c-4dcf-9411-8c8a59b8823c</testCaseGuid>
+</TestCaseEntity>

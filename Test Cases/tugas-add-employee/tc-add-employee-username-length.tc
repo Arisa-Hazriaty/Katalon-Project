@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>tc-add-employee-username-length</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c73c3f35-3882-46be-9bdc-3c184215a0e8</testCaseGuid>
+</TestCaseEntity>

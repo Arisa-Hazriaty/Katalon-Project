@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>alert-firstname-empty</name>
+   <tag></tag>
+   <elementGuidId>9490b6ba-25f2-40f5-9dd1-62c346a4ae84</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//ol[@class='fieldsInLine']/li[1]/span[@class='validation-error']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//ol[@class='fieldsInLine']/li[1]/span[@class='validation-error']</value>
+   </webElementProperties>
+</WebElementEntity>

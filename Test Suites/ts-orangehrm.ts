@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>ts-orangehrm</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>acbeff29-8aba-4093-b348-d635c3df38cf</testSuiteGuid>
+   <testCaseLink>
+      <guid>9367595d-d672-4dc5-94cb-c00ef3dff424</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/navigateurl</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>96bf3c74-0f02-472e-b1e6-7f9949b6bb93</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/tc-login-negative</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>7d82d05e-f2df-49a1-9a4d-55d684bc73bd</id>
+         <iterationEntity>
+            <iterationType>RANGE</iterationType>
+            <value>1-1</value>
+         </iterationEntity>
+         <testDataId>Data Files/Orange HRM/New Test Data</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>7d82d05e-f2df-49a1-9a4d-55d684bc73bd</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>username</value>
+         <variableId>9856e5bc-61d3-4574-a5df-5217c8632701</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>7d82d05e-f2df-49a1-9a4d-55d684bc73bd</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>password</value>
+         <variableId>c6d8d64a-f627-414f-9f1c-723e6b77effd</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>dac4f7df-e13b-4141-99cf-98b2ec556dd5</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>false</isRun>
+      <testCaseId>Test Cases/TC_witch_Statement</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>bd387fdf-be62-4365-be72-82a8048d474b</id>
+         <iterationEntity>
+            <iterationType>RANGE</iterationType>
+            <value>1-1</value>
+         </iterationEntity>
+         <testDataId>Data Files/Orange HRM/New Test Data</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>bd387fdf-be62-4365-be72-82a8048d474b</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>username</value>
+         <variableId>480e673e-cb78-4d89-9584-c412c5b092b2</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>bd387fdf-be62-4365-be72-82a8048d474b</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>password</value>
+         <variableId>cd26d54f-1c82-4939-b151-08ec89311c9c</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

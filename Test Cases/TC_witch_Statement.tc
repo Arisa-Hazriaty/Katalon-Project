@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_witch_Statement</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3442dfdb-2252-4831-b022-183bcadac78c</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>480e673e-cb78-4d89-9584-c412c5b092b2</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>cd26d54f-1c82-4939-b151-08ec89311c9c</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

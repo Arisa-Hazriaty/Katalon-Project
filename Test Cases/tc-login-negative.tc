@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>tc-login-negative</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>916d3642-8e21-4c53-ad4b-e7740d5548b4</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>9856e5bc-61d3-4574-a5df-5217c8632701</id>
+      <masked>false</masked>
+      <name>Username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c6d8d64a-f627-414f-9f1c-723e6b77effd</id>
+      <masked>false</masked>
+      <name>variable</name>
+   </variable>
+</TestCaseEntity>

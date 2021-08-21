@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>tc-add-employee-validate-firstname</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a9eb0be0-9261-451c-9360-9279c91750c7</testCaseGuid>
+</TestCaseEntity>
